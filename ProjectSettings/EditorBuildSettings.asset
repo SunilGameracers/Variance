@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/OurScenes/MENU.unity
+    guid: 62c2dab8d48c49247851116b9737476b
+  - enabled: 1
+    path: Assets/OurScenes/furnishedhouse.unity
+    guid: 88b904af1ccb28a40934d1c3b3957e24
+  - enabled: 1
+    path: Assets/OurScenes/tinyhouse.unity
+    guid: f8fafc8d8c1e41b49964e233fc9de7f7
+  m_configObjects: {}
